@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e882d65b557564344b4d570861797ea2
+timeCreated: 1511851642
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - actions: {instanceID: 0}
+  - rainDrop: {instanceID: 0}
+  - cloud: {instanceID: 0}
+  - thunder: {fileID: 82728793000043802, guid: 7c5f94122c51236458eaf62127ce58bb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
